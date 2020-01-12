@@ -1,5 +1,5 @@
 # ✋ Do not open new issues here! ✋
-
+[![Build Status](https://travis-ci.com/splaa/travis-ci.svg?branch=master)](https://travis-ci.com/splaa/travis-ci)
 # Travis CI
 
 [Travis CI](https://travis-ci.com) is a hosted continuous integration and
