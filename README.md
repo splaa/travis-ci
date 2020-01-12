@@ -1,5 +1,7 @@
 # ✋ Do not open new issues here! ✋
 [![Build Status](https://travis-ci.com/splaa/travis-ci.svg?branch=master)](https://travis-ci.com/splaa/travis-ci)
+
+Данный Репозиторий является форком
 # Travis CI
 
 [Travis CI](https://travis-ci.com) is a hosted continuous integration and
